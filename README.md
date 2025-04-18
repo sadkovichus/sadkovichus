@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Frontend%20Developer&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Building%20the%20web,%20one%20line%20of%20code%20at%20a%20time&descAlignY=51&descAlign=62" alt="Header image">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=236&color=gradient&text=Frontend%20Developer&section=header&textBg=false&fontAlign=50&animation=twinkling&desc=Writing%20code%20is%20like%20magic—sometimes%20it%20works,%20sometimes%20it%20explodes.&descSize=16&descAlign=55&reversal=false" alt="Header image">
 </p>
 
 ---
