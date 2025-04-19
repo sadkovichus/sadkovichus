@@ -1,6 +1,16 @@
-<h1 align="center">
-  Hello, World! 👋
-</h1>
+<pre>
+                                  ___           ___           ___       ___       ___     
+                                 /\__\         /\  \         /\__\     /\__\     /\  \    
+                                /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
+                               /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
+                              /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
+                             /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
+                             \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
+                                  \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
+                                  /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
+                                 /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
+                                 \/__/         \/__/         \/__/     \/__/     \/__/    
+</pre>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=236&color=gradient&text=Frontend%20Developer&section=header&textBg=false&fontAlign=50&animation=twinkling&desc=Writing%20code%20is%20like%20magic—sometimes%20it%20works,%20sometimes%20it%20explodes.&descSize=16&descAlign=55&reversal=false" alt="Header image">
