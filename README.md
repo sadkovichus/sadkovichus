@@ -33,7 +33,7 @@ I am a Middle+ Frontend Developer with experience in building and developing web
 ---
 
 ## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sadkovdanil64@gmail.com) [![email](https://img.shields.io/badge/Telegram-0088CC?logo=telegram&logoColor=white)](https://t.me/sadkovichus) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sadkovdanil64@gmail.com) [![telegram](https://img.shields.io/badge/Telegram-0088CC?logo=telegram&logoColor=white)](https://t.me/sadkovichus) 
 
 
 ###
