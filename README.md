@@ -43,5 +43,5 @@ I am a Middle+ Frontend Developer with experience in building and developing web
 
 
 # 📊 GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=sadkovichus&theme=dark-minimalist&hide_border=true&card_width=1200)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sadkovichus&theme=dark-minimalist&hide_border=true&card_width=1000)](https://git.io/streak-stats)
 </div>
