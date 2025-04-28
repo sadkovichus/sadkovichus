@@ -11,7 +11,6 @@
                                  /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
                                  \/__/         \/__/         \/__/     \/__/     \/__/    
 </pre>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=236&color=gradient&text=Frontend%20Developer&section=header&textBg=false&fontAlign=50&animation=twinkling&desc=Writing%20code%20is%20like%20magic%20-%20it%20works,%20but%20no%20one%20knows%20how%&descSize=16&descAlign=60&descAlignY=65&reversal=false" alt="Header image">
 </p>
@@ -42,6 +41,8 @@ I am a Middle+ Frontend Developer with experience in building and developing web
 
 # 📊 GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadkovichus&theme=dark-minimalist&hide_border=true&card_width=1000)](https://git.io/streak-stats)
+![Github active](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sadkovichus&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true&bg_color=211f27&title_color=d484f4&text_color=ffffff&icon_color=d484f4&card_width=400)
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/sadkovichus/count.svg?"  />
 </div>
