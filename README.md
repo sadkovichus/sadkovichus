@@ -13,10 +13,8 @@
 </pre>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=236&color=gradient&text=Frontend%20Developer&section=header&textBg=false&fontAlign=50&animation=twinkling&desc=Writing%20code%20is%20like%20magic—sometimes%20it%20works,%20sometimes%20it%20explodes.&descSize=16&descAlign=55&reversal=false" alt="Header image">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=236&color=gradient&text=Frontend%20Developer&section=header&textBg=false&fontAlign=50&animation=twinkling&desc=Writing%20code%20is%20like%20magic%20-%20it%20works,%20but%20no%20one%20knows%20how%&descSize=16&descAlign=60&descAlignY=65&reversal=false" alt="Header image">
 </p>
-
----
 
 ## 🚀 About Me
 
@@ -44,4 +42,7 @@ I am a Middle+ Frontend Developer with experience in building and developing web
 
 # 📊 GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadkovichus&theme=dark-minimalist&hide_border=true&card_width=1000)](https://git.io/streak-stats)
+<div align="center">
+  <img src="https://profile-counter.glitch.me/sadkovichus/count.svg?"  />
+</div>
 </div>
